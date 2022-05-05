@@ -1,0 +1,22 @@
+[
+    {
+        "id": 0,
+        "name": "МТС",
+        "icon": "https://play-lh.googleusercontent.com/xqEyND_gIVqw8CXU7f4EJ3VTXY1_vgXRP2Ts8-p1BymH5e7DhFB2yWTemUFi3sBZsOoq"
+    },
+    {
+        "id": 1,
+        "name": "Tele2",
+        "icon": "https://yt3.ggpht.com/ytc/AKedOLStolSjUkx9MTzcnba3jFFRd7sSgfMVm_zP0imWuA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "id": 2,
+        "name": "МегаФон",
+        "icon": "https://www.megafon.ru/i/logos/share_ru_537x537.png?v=1651468599"
+    },
+    {
+        "id": 3,
+        "name": "Билайн",
+        "icon": "https://icdn.lenta.ru/images/2021/10/14/13/20211014132926828/square_320_13611b5794e4a323928fc06c06e2b845.jpeg"
+    }
+]
